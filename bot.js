@@ -5,7 +5,7 @@ client.on('guildMemberAdd', member => {
 const mohamed= member.guild.channels.get("462635240825815050");
 if(!mohamed) return;
 if(mohamed) {
-setTimeout(() => mohamed.send(`** Welcome To Vision Omg Family .. :life_hearts:  **`), 4000)        
+setTimeout(() => mohamed.send(`** Welcome To Vision Omg Family ..** :black_heart:   `), 4000)        
 }
 });
 
